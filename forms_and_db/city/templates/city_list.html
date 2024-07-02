@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>City list</h1>
+
+<ul>
+  {% for x in mycity %}
+     <li><a href="details/{{ x.id }}">{{ x.name }} {{ x.location }} {{ x.population }}</a></li>
+  {% endfor %}
+</ul>
+
+</body>
+</html>
