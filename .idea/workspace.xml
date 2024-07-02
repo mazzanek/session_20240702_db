@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c197b5-31c8-4fa4-8469-f1cf9d8245dd" name="Changes" comment="" />
+    <list default="true" id="95c197b5-31c8-4fa4-8469-f1cf9d8245dd" name="Changes" comment="install">
+      <change afterPath="$PROJECT_DIR$/forms_and_db/members/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms_and_db/members/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms_and_db/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/forms_and_db/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms_and_db/forms_and_db/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms_and_db/forms_and_db/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms_and_db/forms_and_db/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms_and_db/forms_and_db/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms_and_db/members/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms_and_db/members/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -41,6 +62,28 @@
       <option name="presentableId" value="Default" />
       <updated>1719936128775</updated>
     </task>
+    <task id="LOCAL-00001" summary="prvni">
+      <option name="closed" value="true" />
+      <created>1719936155641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719936155641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="install">
+      <option name="closed" value="true" />
+      <created>1719936573573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719936573573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prvni" />
+    <MESSAGE value="install" />
+    <option name="LAST_COMMIT_MESSAGE" value="install" />
   </component>
 </project>
